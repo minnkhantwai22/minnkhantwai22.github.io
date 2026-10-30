@@ -1,0 +1,51 @@
+body {
+    background-color: skyblue;
+    font-family: Arial;
+}
+
+.login {
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    margin: 100px auto;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    text-align: center;
+    color: #555;
+}
+
+input[type="email"] {
+    width: 95%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+input[type="password"] {
+    width: 95%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+a {
+    color: skyblue;
+    text-decoration: none;
+}
+
+button {
+    background-color: skyblue;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+}
